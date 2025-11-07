@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tsJLoPy7m7JPdFjhmMZFJp9/jqpfrXIN3Zitd28IPZmrhAVQDuA5yOvfkYvZQZCFsihxQfpgqNBoraOecL9iLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\vc\\scheduler\\clpfd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gregor Irt\\.nuget\\packages\\decider\\0.3.12\\decider.0.3.12.nupkg.sha512"
+  ],
+  "logs": []
+}

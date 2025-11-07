@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "clpfd/1.0.0": {
+        "dependencies": {
+          "Decider": "0.3.12"
+        },
+        "runtime": {
+          "clpfd.dll": {}
+        }
+      },
+      "Decider/0.3.12": {
+        "runtime": {
+          "lib/netstandard2.0/Decider.Csp.BaseTypes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Decider.Csp.Global.AllDifferentInteger.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Decider.Csp.Integer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "clpfd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Decider/0.3.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1hK5ZhQ3bqc5DSRGPvLAc+JS4xPbiuVtVxneeI4F6rQ0OEEK/GiGlac88NLmChtdbc2BLy5bRADYNbpRBm+EQw==",
+      "path": "decider/0.3.12",
+      "hashPath": "decider.0.3.12.nupkg.sha512"
+    }
+  }
+}

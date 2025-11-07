@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gVWEE1atOEl1Da1dqrO3xAowVxIsNwQV4N0ZPwVhi9YkGAH4uLxbH4I3xVjbu0+VVwm7YfAcfLGZNrWopruLww==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\vc\\einstein\\clpfd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gregor Irt\\.nuget\\packages\\decider\\0.3.12\\decider.0.3.12.nupkg.sha512"
+  ],
+  "logs": []
+}

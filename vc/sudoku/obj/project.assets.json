@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Decider/0.3.12": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Decider.Csp.BaseTypes.dll": {},
+          "lib/netstandard2.0/Decider.Csp.Global.AllDifferentInteger.dll": {},
+          "lib/netstandard2.0/Decider.Csp.Integer.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Decider.Csp.BaseTypes.dll": {},
+          "lib/netstandard2.0/Decider.Csp.Global.AllDifferentInteger.dll": {},
+          "lib/netstandard2.0/Decider.Csp.Integer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decider/0.3.12": {
+      "sha512": "1hK5ZhQ3bqc5DSRGPvLAc+JS4xPbiuVtVxneeI4F6rQ0OEEK/GiGlac88NLmChtdbc2BLy5bRADYNbpRBm+EQw==",
+      "type": "package",
+      "path": "decider/0.3.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "decider.0.3.12.nupkg.sha512",
+        "decider.nuspec",
+        "lib/netstandard2.0/Decider.Csp.BaseTypes.dll",
+        "lib/netstandard2.0/Decider.Csp.BaseTypes.pdb",
+        "lib/netstandard2.0/Decider.Csp.Global.AllDifferentInteger.dll",
+        "lib/netstandard2.0/Decider.Csp.Global.AllDifferentInteger.pdb",
+        "lib/netstandard2.0/Decider.Csp.Integer.dll",
+        "lib/netstandard2.0/Decider.Csp.Integer.pdb"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Decider >= 0.3.12"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Gregor Irt\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projects\\vc\\sudoku\\clpfd.csproj",
+      "projectName": "clpfd",
+      "projectPath": "C:\\Projects\\vc\\sudoku\\clpfd.csproj",
+      "packagesPath": "C:\\Users\\Gregor Irt\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\vc\\sudoku\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Gregor Irt\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Decider": {
+            "target": "Package",
+            "version": "[0.3.12, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

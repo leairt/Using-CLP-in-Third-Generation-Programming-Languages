@@ -1,0 +1,17 @@
+C:\Users\Sladjana\source\repos\CLTFD\CLTFD\bin\Debug\netcoreapp3.1\CLTFD.exe
+C:\Users\Sladjana\source\repos\CLTFD\CLTFD\obj\Debug\netcoreapp3.1\CLTFD.csprojAssemblyReference.cache
+C:\Users\Sladjana\source\repos\CLTFD\CLTFD\obj\Debug\netcoreapp3.1\CLTFD.AssemblyInfoInputs.cache
+C:\Users\Sladjana\source\repos\CLTFD\CLTFD\obj\Debug\netcoreapp3.1\CLTFD.AssemblyInfo.cs
+C:\Users\Sladjana\source\repos\CLTFD\CLTFD\obj\Debug\netcoreapp3.1\CLTFD.csproj.CoreCompileInputs.cache
+C:\Users\Sladjana\source\repos\CLTFD\CLTFD\bin\Debug\netcoreapp3.1\CLTFD.deps.json
+C:\Users\Sladjana\source\repos\CLTFD\CLTFD\bin\Debug\netcoreapp3.1\CLTFD.runtimeconfig.json
+C:\Users\Sladjana\source\repos\CLTFD\CLTFD\bin\Debug\netcoreapp3.1\CLTFD.runtimeconfig.dev.json
+C:\Users\Sladjana\source\repos\CLTFD\CLTFD\bin\Debug\netcoreapp3.1\CLTFD.dll
+C:\Users\Sladjana\source\repos\CLTFD\CLTFD\bin\Debug\netcoreapp3.1\CLTFD.pdb
+C:\Users\Sladjana\source\repos\CLTFD\CLTFD\bin\Debug\netcoreapp3.1\Decider.Csp.BaseTypes.dll
+C:\Users\Sladjana\source\repos\CLTFD\CLTFD\bin\Debug\netcoreapp3.1\Decider.Csp.Global.AllDifferentInteger.dll
+C:\Users\Sladjana\source\repos\CLTFD\CLTFD\bin\Debug\netcoreapp3.1\Decider.Csp.Integer.dll
+C:\Users\Sladjana\source\repos\CLTFD\CLTFD\obj\Debug\netcoreapp3.1\CLTFD.csproj.CopyComplete
+C:\Users\Sladjana\source\repos\CLTFD\CLTFD\obj\Debug\netcoreapp3.1\CLTFD.dll
+C:\Users\Sladjana\source\repos\CLTFD\CLTFD\obj\Debug\netcoreapp3.1\CLTFD.pdb
+C:\Users\Sladjana\source\repos\CLTFD\CLTFD\obj\Debug\netcoreapp3.1\CLTFD.genruntimeconfig.cache
